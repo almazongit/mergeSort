@@ -1,0 +1,7 @@
+C:\Users\almaz\source\repos\mergeSort\mergeSort\bin\Debug\mergeSort.exe.config
+C:\Users\almaz\source\repos\mergeSort\mergeSort\bin\Debug\mergeSort.exe
+C:\Users\almaz\source\repos\mergeSort\mergeSort\bin\Debug\mergeSort.pdb
+C:\Users\almaz\source\repos\mergeSort\mergeSort\obj\Debug\mergeSort.csproj.AssemblyReference.cache
+C:\Users\almaz\source\repos\mergeSort\mergeSort\obj\Debug\mergeSort.csproj.CoreCompileInputs.cache
+C:\Users\almaz\source\repos\mergeSort\mergeSort\obj\Debug\mergeSort.exe
+C:\Users\almaz\source\repos\mergeSort\mergeSort\obj\Debug\mergeSort.pdb
